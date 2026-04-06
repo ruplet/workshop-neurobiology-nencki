@@ -1,6 +1,6 @@
 # Workshop on spatial memory and neuroscience
 
-* This is an archive of original files from 2018.*
+*This README was revised on April 6, 2026. The rest of the files are original versions from 2018 and have not been developed since then.*
 
 Archive of files from workshop on spatial memory and neuroimaging of mice brain.
 Workshop was organized in June 2018 by Polish Children's Fund thanks to Nencki Institute of Experimental Biology, Polish Academy of Sciences.
